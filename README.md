@@ -1,4 +1,8 @@
-producism
+producism v2
 =========
 
-evolutionary economic model based on open source principles...more coming soon.
+Evolutionary Economic Model based on Open Source Principles
+
+Goal: To build sustainable communities by democratizing access to the neccesarry tools, resources, and communities of support for creators to manifest their ideas together.
+
+More coming soon.
